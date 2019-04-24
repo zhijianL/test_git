@@ -3,3 +3,4 @@ git cs 02
 git cs 03
 git cs 03
 git cs 04
+git cs 管理的是文件
